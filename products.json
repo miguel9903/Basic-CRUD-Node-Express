@@ -1,0 +1,208 @@
+[{
+  "name": "Nike",
+  "description": "Tenis Training Gris-Naranja-Blanco Nike Renew Fusion",
+  "price": 257900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622140249/MyStore-App/Products/lappxp9lrdmotutj363n.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Nike",
+  "description": "Tenis Deportivos Running Nike ZOOM WINFLO 6 Blanco Negro",
+  "price": 369900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622140437/MyStore-App/Products/nlx9uv4fx74rewqqzpgc.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Reebok Classics",
+  "description": "Tenis Lifestyle Azul-Blanco Reebok Royal Classic Jogger 3.0",
+  "price": 193900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622141072/MyStore-App/Products/oledfzorvcgmgvbnx6uq.jpg",
+  "available": true,
+  "status": false
+},
+{
+  "name": "Adidas Performance",
+  "description": "Tenis Basketball Gris-Negro-Blanco adidas Performance OwnTheGame",
+  "price": 209900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622151415/MyStore-App/Products/kk7lzlppo3lbtu7d91qi.jpg",
+  "available": true,
+  "status": false
+},
+{
+  "name": "Tellenzi",
+  "description": "Tenis Dama Azul Tellenzi 040D",
+  "price": 79900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622151880/MyStore-App/Products/lnmoqihikfyy6ayb4a7r.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Royal County Of Berkshire Polo Club",
+  "description": "Tenis Blanco-Plateado Royal County of Berkshire Polo Club",
+  "price": 73900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622152203/MyStore-App/Products/gaesyifr3u78lrunjepx.jpg",
+  "available": true,
+  "status": false
+},
+{
+  "name": "Tellenzi",
+  "description": "Bota Outdoor Almendra Tellenzi 712",
+  "price": 99990,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622152572/MyStore-App/Products/n1m2uk0tsxo3uopk1jbc.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Tellenzi",
+  "description": "Bota Outdoor Negro*Rojo Tellenzi 2042",
+  "price": 109990,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622152800/MyStore-App/Products/gwkhydydyixw6whtbbxx.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Reebok",
+  "description": "Tenis Running Verde Reebok Lite 2.0",
+  "price": 145900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623139632/MyStore-App/Products/na5s1iif1k4omh6m2rat.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Tellenzi",
+  "description": "Tenis Sneakers Blanco Tellenzi 400",
+  "price": 72990,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623139817/MyStore-App/Products/flhghlvmxpsblolhblfz.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Price Shoes",
+  "description": "Priceshoes Tenis Deportivo Dama 522JOYMORADO",
+  "price": 59990,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623140029/MyStore-App/Products/byjqnmftvcvstkc048ki.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Royal County Of Berkshire Polo Club",
+  "description": "Tenis Blanco-Oro Rosa Royal County of Berkshire Polo Club",
+  "price": 94900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623140153/MyStore-App/Products/d3awnholwrrctlxlaf50.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Tellenzi",
+  "description": "Botín Moda Dama NegroTellenzi 1454",
+  "price": 89990,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623140288/MyStore-App/Products/eov1p1mxoog7gaebi9h3.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Idecal",
+  "description": "Bota Lluvia Fucsia Idecal Ginna",
+  "price": 70000,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623140502/MyStore-App/Products/dglzmprr7vycp1jby6j0.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Tellenzi",
+  "description": "Zapato Hombre Camel Tellenzi 026C",
+  "price": 72900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623140637/MyStore-App/Products/qhattqoghaxg8qbdzgzh.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Us Polo Assn",
+  "description": "Mocasín Café Us Polo Assn",
+  "price": 100900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623140793/MyStore-App/Products/ec3flzbykrlnpop4jt09.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Atypical",
+  "description": "Camisa Juvenil Masculino Azul Atypical",
+  "price": 50999,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623141009/MyStore-App/Products/n7n1djpw5zk8ed4gdcs4.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Us Polo Assn",
+  "description": "Camisa Blanco Us Polo Assn",
+  "price": 89900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623141106/MyStore-App/Products/uzvgpr32xql1v8yztnus.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "GAP",
+  "description": "Camiseta Negro GAP",
+  "price": 38900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623141300/MyStore-App/Products/dbvbxdi8hshxsklwysgo.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Jack & Jones",
+  "description": "Camiseta Verde Jack & Jones",
+  "price": 34900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623141470/MyStore-App/Products/fl0ygjjie4rlhetfakag.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "COLORE",
+  "description": "Pantalón Azul Oscuro COLORE",
+  "price": 79900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623141642/MyStore-App/Products/xvbqlv4erujnwgwzvcwe.jpg",
+  "available": true,
+  "status": false
+},
+{
+  "name": "Frenezi",
+  "description": "Reloj Cuarzo Casual Hombres Correa Cuero PU Negro",
+  "price": 33900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623186828/MyStore-App/Products/md6iyzedjdbjebjv4ewz.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Vintage Accessories",
+  "description": "Reloj Novios Miller X 2 Negro Y Blanco",
+  "price": 69900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623187228/MyStore-App/Products/qexegoxvhomeiufw5apb.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Us Polo Assn",
+  "description": "Morral Naranja-Azul Us Polo Assn",
+  "price": 46900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623224725/MyStore-App/Products/ak6f2svfo2cnb3npbqoo.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Us Polo Assn",
+  "description": "Morral Azul Royal-Amarillo Us Polo Assn",
+  "price": 86900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1623296541/MyStore-App/Products/s6pelj2tciy5fztdspl3.jpg",
+  "available": true,
+  "status": true
+},
+{
+  "name": "Us Polo Assn",
+  "description": "Morral Azul Navy-Rojo Us Polo Assn",
+  "price": 82900,
+  "image": "https://res.cloudinary.com/dgxcs0tsd/image/upload/v1622969872/MyStore-App/Products/no-image_itpopu.jpg",
+  "available": true,
+  "status": true
+}]
